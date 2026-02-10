@@ -70,7 +70,8 @@ body {
 .white-color-container {
     width: 20px;
     height: 20px;
-    display: inline-block;
+    display: circle;
+    border: gray;
 }
 
 .black-color-container {
